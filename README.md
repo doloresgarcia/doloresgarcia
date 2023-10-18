@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi  👋
+I'm a fellow at CERN. I develop graph neural network approaches to reconstruct events at different levels to study the performance of future colliders. 
+- 🔭 I’m currently working on flavour taggers, particle flow with ML, and others!
 
 <!--
 **doloresgarcia/doloresgarcia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
